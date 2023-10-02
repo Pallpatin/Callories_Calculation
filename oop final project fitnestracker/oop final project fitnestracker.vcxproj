@@ -130,6 +130,7 @@
     <ClCompile Include="Adaprer.cpp" />
     <ClCompile Include="App.cpp" />
     <ClCompile Include="oop final project fitnestracker.cpp" />
+    <ClCompile Include="Produst.cpp" />
     <ClCompile Include="User.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -140,6 +141,7 @@
     <ClInclude Include="Adaprer.h" />
     <ClInclude Include="App.h" />
     <ClInclude Include="Configs.h" />
+    <ClInclude Include="Produst.h" />
     <ClInclude Include="User.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
